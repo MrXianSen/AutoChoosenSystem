@@ -8,7 +8,7 @@ public class Response {
 	//响应码
 	private int responseCode;
 	
-	//响应字符串
+	//响应状态
 	private String responseStr;
 	
 	//返回的内容的长度
