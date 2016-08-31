@@ -1,0 +1,52 @@
+{
+    null=[
+        HTTP/1.1 200 OK
+    ],
+    ETag=[
+        "1cdb-53838c68ce600"
+    ],
+    Content-Length=[
+        7387
+    ],
+    Expires=[
+        Wed,
+        31Aug201608: 33: 29GMT
+    ],
+    Last-Modified=[
+        Fri,
+        22Jul201612: 43: 04GMT
+    ],
+    Set-Cookie=[
+        BAIDUID=2D3483EEB9733772076F7997E842360A: FG=1;expires=Thu,
+        31-Aug-1708: 33: 28GMT;max-age=31536000;path=/;domain=.baidu.com;version=1,
+        BAIDUID=2D3483EEB9733772AC7A4F83944DCFE9: FG=1;expires=Thu,
+        31-Aug-1708: 33: 28GMT;max-age=31536000;path=/;domain=.baidu.com;version=1
+    ],
+    Connection=[
+        Keep-Alive
+    ],
+    Server=[
+        Apache
+    ],
+    Cache-Control=[
+        max-age=1
+    ],
+    Vary=[
+        Accept-Encoding,
+        User-Agent
+    ],
+    Date=[
+        Wed,
+        31Aug201608: 33: 28GMT
+    ],
+    P3P=[
+        CP=" OTI DSP COR IVA OUR IND COM ",
+        CP=" OTI DSP COR IVA OUR IND COM "
+    ],
+    Content-Type=[
+        text/html
+    ],
+    Accept-Ranges=[
+        bytes
+    ]
+}
